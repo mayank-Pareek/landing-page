@@ -1,0 +1,1 @@
+In this project I have created a basic landing page by usings the skills I have attained after learning HTML and CSS. The core feature of this landing page is alignment of objects using flexbox display. By using multiple features of flexbox I have aligned the object in a beautiful form.
