@@ -60,3 +60,12 @@ font-size: 18px;
   justify-content:center;
   align-items: center;
 }
+
+.main-section button{
+    font-size:18px;
+    font-weight:bold;
+    color:#F9Faf8;
+    padding:10px 40px;
+    background-color:rgb(39, 123, 233);
+    border-radius: 8px;
+}
