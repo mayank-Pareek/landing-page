@@ -66,6 +66,40 @@ font-size: 18px;
     font-weight:bold;
     color:#F9Faf8;
     padding:10px 40px;
-    background-color:rgb(39, 123, 233);
+    background-color:#3882F6;
+    border-radius: 8px;
+}
+.info{
+    padding: 40px;
+    padding-left:200px;
+    padding-right: 200px;
+    padding-bottom: 50px;
+}
+
+.info h2{
+    text-align: center;
+    font-size: 36px;
+    font-weight:bolder;
+    color:#1F2937;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 50px;
+}
+.card{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width:270px;
+    text-align: center;
+}
+
+.shapes{
+    height:200px;
+    width:200px;
+    border: 5px solid #3882F6;
     border-radius: 8px;
 }
