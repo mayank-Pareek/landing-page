@@ -125,13 +125,6 @@ font-size: 18px;
     color:#1F2937;
 }
 
-/* .signup{
-    /* text-align: center; */
-    /* padding-left:300px;
-    padding-right: 250px;
-    padding-bottom: 50px; 
-    
-} */
 
 .action-box{
      padding: 50px;
@@ -139,9 +132,6 @@ font-size: 18px;
     display: flex;
     justify-content: space-between;
     align-items:center;
-    /* justify-content: center; */
-    /* height: 100px; */
-    /* width:1000px; */
     margin-left: 350px;
     background-color: #3882F6;
     border-radius: 10px;
@@ -164,6 +154,15 @@ font-size: 18px;
     margin:0px;
     font-size:28px;
     font-weight:bold;
+    color:#F9Faf8;
+}
+
+footer{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding:50px;
+    font-size:28px;
     color:#F9Faf8;
 }
 
