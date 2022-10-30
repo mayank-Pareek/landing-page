@@ -7,6 +7,7 @@ body{
 footer{
     background-color: #1F2937;
 }
+
 .heading{
     font-size: 18px;
     color:#E5E7EB;
@@ -16,21 +17,24 @@ footer{
     padding-bottom: 50px;
     
 }
+
 .heading h1{
     font-size: 48px;
     font-weight: bolder;
     color: #F9Faf8;
     margin-bottom:0px;
-    /* padding-bottom: 0px; */
 }
+
 #logo{
     font-size:24px;
     color:#F9Faf8;
 }
+
 header{
     display:flex;
     justify-content: space-between;
 }
+
 ul{
     list-style: none;
     display: flex;
@@ -48,9 +52,11 @@ font-size: 18px;
     justify-content: space-between;
     margin-bottom:40px;
 }
+
 .main-text{
     width:500px;
 }
+
 .img-holder{
     display: flex;
      margin-top:50px; 
@@ -69,6 +75,7 @@ font-size: 18px;
     background-color:#3882F6;
     border-radius: 8px;
 }
+
 .info{
     padding: 40px;
     padding-left:200px;
@@ -138,8 +145,6 @@ font-size: 18px;
 }
 
 .action-box button{
-    /* height: 30px; */
-    /* margin-top:50px; */
     text-align: center;
     font-size:24px;
     font-weight:bold;
